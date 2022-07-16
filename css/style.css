@@ -132,6 +132,8 @@ p {
 #showcase {
   background: url('../img/photo-2.jpg') no-repeat center center/cover;
   height:60%;
+  background-color: black;
+  opacity: 50%;
 }
 
 #showcase .showcase-content {

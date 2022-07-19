@@ -68,7 +68,7 @@ p {
 }
 
 .bg-light {
-  background: #f4f4f4;
+  background: #ffffff;
   color: #33032d;
 }
 
@@ -130,10 +130,8 @@ p {
 
 /* Showcase */
 #showcase {
-  background: url('../img/pexels-ivan-rivero-1001965.jpg') no-repeat center center/cover;
+  background: url('../img/pexels-iván-rivero-1001965.jpg') no-repeat center center/cover;
   height:60%;
-  background-color: black;
-  opacity: 50%;
 }
 
 #showcase .showcase-content {
